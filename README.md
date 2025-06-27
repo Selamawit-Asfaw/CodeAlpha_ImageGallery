@@ -1,0 +1,2 @@
+# CodeAlpha_ImageGallery
+Selin's Gallery is a modern, responsive image gallery with dynamic filtering, lightbox viewing, and smooth animations. It features category-based organization, keyboard navigation, and mobile-friendly design, making it perfect for showcasing portfolios or photo collections. Built with clean HTML/CSS and interactive JavaScript, it offers a professional user experience with customizable themes.
